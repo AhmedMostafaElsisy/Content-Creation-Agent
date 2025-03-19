@@ -10,4 +10,4 @@ IMAGE_QUALITY = "standard"
 MAX_SEARCH_RESULTS = 5
 
 # Refinement settings
-MAX_ITERATIONS = 1
+MAX_ITERATIONS = 4
